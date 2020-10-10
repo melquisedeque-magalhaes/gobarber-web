@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-## Aplicação para gerenciamento de barbearias haircut_man
+## Aplicação para gerenciamento de barbearias :haircut_man
 
 <h3 align="center" style="color:orange;">
   GoBarber - Aplicação Frontend com React com Typescript
