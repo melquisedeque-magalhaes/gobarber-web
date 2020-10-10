@@ -24,7 +24,7 @@
   <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
-Criado com as stacks
+<h2 align="center">Criado com as stacks</h2>
 <h3>
     <img src="./assets/react.png" height="18"/> React Js
     <img src="./assets/react-native.png" height="18"/> React Native
@@ -43,3 +43,29 @@ Criado com as stacks
 <h5 align="center">
   <img src="./src/assets/../../assets/login-page.png"/>
 </h5>
+
+## :rocket: Tecnologias
+
+Esse projeto foi construído com as tecnologias:
+- [Node][nodejs]
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+## 🤔 Como contribuir
+
+- Faça um fork desse projeto;
+- Crie uma branch com sua(s) mudança(s): `git checkout -b my-feature`;
+- Faça um commit da(s) sua(s) mudança(s): `git commit -m 'feat: My new feature'`;
+- Crie uma pull request nesse repositório.
+
+---
+
+<p align="center">With 💜, by Melqui Sodré.</p>
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
