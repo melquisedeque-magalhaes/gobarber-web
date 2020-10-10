@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color: #312E38">
+<h1 align="center" style="background: #312E38">
   <img src="./src/assets/logo.svg"/>
 </h1>
 
