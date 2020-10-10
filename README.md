@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="center">
+<h2 align="center" style="color:orange;">
   GoBarber - Aplicação Frontend com React com Typescript
 </h2>
 
