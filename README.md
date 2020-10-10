@@ -24,7 +24,7 @@
   <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
-<h2 align="center">Criado com as stacks</h2>
+<h2 align="center">Criado com as Tecnologias :rocket: </h2>
 <h3>
     <img src="./assets/react.png" height="18"/> React Js
     <img src="./assets/react-native.png" height="18"/> React Native
@@ -44,13 +44,6 @@
   <img src="./src/assets/../../assets/login-page.png"/>
 </h5>
 
-## :rocket: Tecnologias
-
-Esse projeto foi construído com as tecnologias:
-- [Node][nodejs]
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [PostgreSQL](https://www.postgresql.org/)
 
 ## 🤔 Como contribuir
 
