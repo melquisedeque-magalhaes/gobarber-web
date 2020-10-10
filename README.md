@@ -5,10 +5,11 @@
   </h1>
 </div>
 
+## Aplicação para gerenciamento de barbearias haircut_man
 
-<h2 align="center" style="color:orange;">
+<h3 align="center" style="color:orange;">
   GoBarber - Aplicação Frontend com React com Typescript
-</h2>
+</h3>
 
 <h3>
     Criado com a stack
