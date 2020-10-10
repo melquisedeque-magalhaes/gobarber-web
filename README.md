@@ -1,13 +1,11 @@
 
-<div style="background-color:#312E38;">
-  <h1 align="center">
-    <img src="./src/assets/logo.svg"/>
-  </h1>
-</div>
+<h1 align="center">
+  <img src="./src/assets/logo.svg" width="500px"/>
+</h1>
 
-## Aplicação para gerenciamento de barbearias :haircut_man
+<h2> Aplicação para gerenciamento de barbearias :haircut_man: </h2>
 
-<h3 align="center" style="color:orange;">
+<h3 align="center">
   GoBarber - Aplicação Frontend com React com Typescript
 </h3>
 
