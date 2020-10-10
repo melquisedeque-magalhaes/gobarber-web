@@ -1,7 +1,10 @@
-![bg](#312E38)
-<h1 align="center">
-  <img src="./src/assets/logo.svg"/>
-</h1>
+
+<div style="background-color:#312E38;">
+  <h1 align="center">
+    <img src="./src/assets/logo.svg"/>
+  </h1>
+</div>
+
 
 <h2 align="center">
   GoBarber - Aplicação Frontend com React com Typescript
