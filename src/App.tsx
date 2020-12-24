@@ -7,7 +7,7 @@ import Routes from './routes';
 import Hooks from './hooks';
 
 const App: React.FC = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={window.location.pathname || ''}>
     <Hooks>
       <Routes />
     </Hooks>

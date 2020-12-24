@@ -2,7 +2,7 @@
   "name": "gobarber-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://melquisedeque-magalhaes.github.io/gobarber-web",
+  "homepage": "https://melquisedeque-magalhaes.github.io/gobarber-web/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
