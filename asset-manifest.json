@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/gobarber-web/static/js/main.f248c63b.chunk.js",
-    "main.js.map": "/gobarber-web/static/js/main.f248c63b.chunk.js.map",
+    "main.js": "/gobarber-web/static/js/main.b35f2052.chunk.js",
+    "main.js.map": "/gobarber-web/static/js/main.b35f2052.chunk.js.map",
     "runtime-main.js": "/gobarber-web/static/js/runtime-main.0083ccb1.js",
     "runtime-main.js.map": "/gobarber-web/static/js/runtime-main.0083ccb1.js.map",
     "static/js/2.42e48ed5.chunk.js": "/gobarber-web/static/js/2.42e48ed5.chunk.js",
     "static/js/2.42e48ed5.chunk.js.map": "/gobarber-web/static/js/2.42e48ed5.chunk.js.map",
     "index.html": "/gobarber-web/index.html",
-    "precache-manifest.51c99a6c43691c6560cf67f1675f9c0f.js": "/gobarber-web/precache-manifest.51c99a6c43691c6560cf67f1675f9c0f.js",
+    "precache-manifest.d67720c290443407b29eb008b257f24d.js": "/gobarber-web/precache-manifest.d67720c290443407b29eb008b257f24d.js",
     "service-worker.js": "/gobarber-web/service-worker.js",
     "static/js/2.42e48ed5.chunk.js.LICENSE.txt": "/gobarber-web/static/js/2.42e48ed5.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/gobarber-web/static/media/logo.a49b07ec.svg",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.0083ccb1.js",
     "static/js/2.42e48ed5.chunk.js",
-    "static/js/main.f248c63b.chunk.js"
+    "static/js/main.b35f2052.chunk.js"
   ]
 }
