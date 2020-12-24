@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/gobarber-web/static/js/main.b35f2052.chunk.js",
-    "main.js.map": "/gobarber-web/static/js/main.b35f2052.chunk.js.map",
+    "main.js": "/gobarber-web/static/js/main.da15c660.chunk.js",
+    "main.js.map": "/gobarber-web/static/js/main.da15c660.chunk.js.map",
     "runtime-main.js": "/gobarber-web/static/js/runtime-main.0083ccb1.js",
     "runtime-main.js.map": "/gobarber-web/static/js/runtime-main.0083ccb1.js.map",
-    "static/js/2.42e48ed5.chunk.js": "/gobarber-web/static/js/2.42e48ed5.chunk.js",
-    "static/js/2.42e48ed5.chunk.js.map": "/gobarber-web/static/js/2.42e48ed5.chunk.js.map",
+    "static/js/2.d7a32220.chunk.js": "/gobarber-web/static/js/2.d7a32220.chunk.js",
+    "static/js/2.d7a32220.chunk.js.map": "/gobarber-web/static/js/2.d7a32220.chunk.js.map",
     "index.html": "/gobarber-web/index.html",
-    "precache-manifest.d67720c290443407b29eb008b257f24d.js": "/gobarber-web/precache-manifest.d67720c290443407b29eb008b257f24d.js",
+    "precache-manifest.de1b85d96ae3f4d0b2e6be877a36720e.js": "/gobarber-web/precache-manifest.de1b85d96ae3f4d0b2e6be877a36720e.js",
     "service-worker.js": "/gobarber-web/service-worker.js",
-    "static/js/2.42e48ed5.chunk.js.LICENSE.txt": "/gobarber-web/static/js/2.42e48ed5.chunk.js.LICENSE.txt",
+    "static/js/2.d7a32220.chunk.js.LICENSE.txt": "/gobarber-web/static/js/2.d7a32220.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/gobarber-web/static/media/logo.a49b07ec.svg",
     "static/media/sign-in-background.png": "/gobarber-web/static/media/sign-in-background.6eac314f.png",
     "static/media/sign-up-background.png": "/gobarber-web/static/media/sign-up-background.c4d8f988.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0083ccb1.js",
-    "static/js/2.42e48ed5.chunk.js",
-    "static/js/main.b35f2052.chunk.js"
+    "static/js/2.d7a32220.chunk.js",
+    "static/js/main.da15c660.chunk.js"
   ]
 }
