@@ -35,6 +35,8 @@
 
 ## 📱 Projeto
 
+<a href="https://melquisedeque-magalhaes.github.io/GoFinances-GoStack/" target="_blank">Site Demo 🗒️<a>
+
 <p>
   O GoBarber é uma aplicação web e mobile para gerenciamento de barbearias. Essa aplicação foi construída durante o bootcamp GoStack 11 da <a href="https://rocketseat.com.br/">Rocketseat</a>
   🚀
